@@ -1,5 +1,9 @@
 /*----------------------------------- Navbar  */
 
+body {
+    background-color: #f0f0f0;
+}
+
 .navbar-dark .navbar-toggler {
     border-color: transparent;
 }
@@ -32,7 +36,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 500px;
+    height: 80vh;
     color: #fff;
     background-image: radial-gradient(circle 248px at center, #16d9e3 0%, #30c7ec 47%, #46aef7 100%);
 }
@@ -59,4 +63,15 @@
 .hero-heading button,
 .dropdown-item {
     color: #fff;
+}
+
+/*----------------------------------- Section  */
+
+section {
+    margin: 10vh 0;
+}
+
+.card {
+    box-shadow: 5px 10px #f5f5f5;
+    border: none;
 }
