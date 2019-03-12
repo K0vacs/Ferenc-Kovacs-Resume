@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" href="css/all.min.css" type="text/css" />
     <link rel="stylesheet" href="css/style.css" type="text/css" />
     <title>Ferenc Kovacs Resume</title>
 </head>
@@ -40,10 +41,8 @@
         <div class="hero-heading">
             <div>
                 <h1>Want to learn more about me?</h1>
-                <div class="dropdown">
-                    <button class="btn dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Dropdown button
-                 </button>
+                <div class="drop-nav dropdown">
+                    <button class="btn dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About Me</button>
                     <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                         <a class="dropdown-item" href="#">Action</a>
                         <a class="dropdown-item" href="#">Another action</a>
@@ -103,15 +102,41 @@
                         <p class="card-text">Hi! I'm Ferenc (pronounced "Terrence" with an "F"), an aspiring developer with 5 years experience in the tech industry. Currently accelerating growth through stimulating network effects.</p>
                         <p>My journey has led me to my passion of software development. Over the past few years my appitite for software development has grown tremendously, hence my eagerness to make the transition.</p>
                         <p>As a recent graduate of Code Institute I am familiar with front-end and back-end frameworks. I specialise in languages such as HTML, CSS, JavaScript, PHP and Python.</p>
-                        <p>Feel free to reach out to me should you have any questions or opportunies (<a href="#">Contact</a>).</p>
+                        <p>Feel free to reach out to me should you have any questions or opportunies.</p>
+                        <a href="#" class="btn btn-primary">Contact Me</a>
                     </div>
                 </div>
             </div>
         </div>
     </section>
 
-    <footer>
-
+    <footer class="container-fluid">
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    <h1>Fk.</h1>
+                </div>
+                <div class="col align-self-center">
+                    <div class="drop-nav dropdown">
+                        <button class="btn dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About Me</button>
+                        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                            <a class="dropdown-item" href="#">Action</a>
+                            <a class="dropdown-item" href="#">Another action</a>
+                            <a class="dropdown-item" href="#">Something else here</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col align-self-center">
+                    <div class="row socials">
+                        <div class="col">
+                            <i class="fab fa-linkedin-in"></i>
+                            <i class="fab fa-github"></i>
+                            <i class="fab fa-stack-overflow"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </footer>
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
