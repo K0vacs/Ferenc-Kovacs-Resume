@@ -201,6 +201,14 @@ section {
     border-radius: 50px;
 }
 
+.badge:hover {
+    opacity: 0.8;
+}
+
+.icon-spacing {
+    margin: 0px 5px;
+}
+
 /*----------------------------------- Experience  */
 
 .timeline {
@@ -284,6 +292,20 @@ section {
     padding-bottom: 40px;
 }
 
+/*----------------------------------- Skills  */
+
+.flex-spacing {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+
+
+
+
+
+
 /*----------------------------------- Footer  */
 
 footer {
@@ -333,7 +355,7 @@ footer {
 
 @media(max-width: 768px) {
     .timeline::after {
-        left: 15px;
+        left: 0px;
     }
     
     .timeline-item-left {
