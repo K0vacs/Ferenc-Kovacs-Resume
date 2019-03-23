@@ -1,25 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Hind+Vadodara|Mitr');
 
-/*----------------------------------- Backgrounds  */
-
-.bg-blue {
-    color: #fff;
-    background-color: #46aef7;
-    border-color: #46aef7;
-}
-
-.bg-red {
-    color: #fff;
-    background-color: #FF7781;
-    border-color: #FF7781;
-}
-
-.bg-green {
-    color: #fff;
-    background-color: #58BB5E;
-    border-color: #58BB5E;
-}
-
 /*----------------------------------- Default Styles  */
 
 body {
@@ -53,6 +33,26 @@ a:hover {
 
 i:hover {
     opacity: 0.8;
+}
+
+/*----------------------------------- Backgrounds  */
+
+.bg-blue {
+    color: #fff;
+    background-color: #46aef7;
+    border-color: #46aef7;
+}
+
+.bg-red {
+    color: #fff;
+    background-color: #FF7781;
+    border-color: #FF7781;
+}
+
+.bg-green {
+    color: #fff;
+    background-color: #58BB5E;
+    border-color: #58BB5E;
 }
 
 /*----------------------------------- Navbar  */
@@ -303,12 +303,6 @@ section {
     flex-direction: column;
     justify-content: space-between;
 }
-
-
-
-
-
-
 
 /*----------------------------------- Footer  */
 

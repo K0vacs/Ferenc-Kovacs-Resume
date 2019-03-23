@@ -1,16 +1,32 @@
-# Your Project's Name
+# Ferenc Kovacs Resume
 
-One or two paragraphs providing an overview of your project.
+This project is to showcase a basic profile website of me as a developer by displaying information on my work history, skills, experience, about me section and contact page.
 
-Essentially, this part is your sales pitch.
- 
+As I continue to develop professionally my profile will be updated occasionally.
+
 ## UX
- 
+
+### Function
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
+### Styling
+
+This website was built with speed and simplicity in mind. Hence background radial gradients where selected for the header and footer for a clean an cool colouring using the colour blue (rather than background-images). The background gradient was generated using WebGradients and the colour palette was generated using ColorSpace to find complimentary colours for the website.
+
+The fonts used are Hind Vadodara and Mitr using Google Fonts and imported to the style.css file.
+
+### Pages
+
+#### About Me
+#### Experience
+#### Skills
+#### Portfolio
+#### Contact
+
+### User Stories
 - As a user type, I want to perform an action, so that I can achieve a goal.
 
+### Mockups
 This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
 
 ## Features
@@ -32,8 +48,26 @@ In addition, you may also use this section to discuss plans for additional featu
 
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
-- [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
+### Languages
+>	HTML / HTML5
+-	To display content on each HTML page and enable the use of more semantic elements used in HTML5
+>	CSS / CSS3
+-	To style content in each HTML page and enable additional styling features by using CSS3
+>	JavaScript
+-	To make HTML content more dynamic and to enable features that are supported by Bootstrap
+
+### Libraries
+>	Bootstrap
+-	To speed up the building of the project using font end framework that has been tied and tested
+>	Font Awesome
+-   To make the project more visually appealing to users through the use of icons
+>	W3Schools
+-	The timeline used in the skills and experience pages are based on a timeline obtained from W3Schools
+>	Google Fonts
+-	To make enable custom fonts to be used in the project. Hind Vadodara and Mitr were selected
+>	jQuery
+-	To simplify Dom manipulation and to enable Bootstrap features
+
 
 
 ## Testing
