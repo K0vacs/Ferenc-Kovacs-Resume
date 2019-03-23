@@ -20,11 +20,6 @@
     border-color: #58BB5E;
 }
 
-.hero-bg {
-    background-image: url('../img/binary.png');
-    /*opacity: 0.1;*/
-}
-
 /*----------------------------------- Default Styles  */
 
 body {
@@ -58,11 +53,6 @@ a:hover {
 
 i:hover {
     opacity: 0.8;
-}
-
-header {
-    background-image: radial-gradient(circle 248px at center, #16d9e3 0%, #30c7ec 47%, #46aef7 100%);
-    /*background-image: radial-gradient(circle 248px at center, rgb(22,217,227, 0.8) 0%, rgb(48,199,236, 0.8) 47%, rgb(70,174,247, 0.8) 100%), url('../img/binary.png');*/
 }
 
 /*----------------------------------- Navbar  */
@@ -123,6 +113,7 @@ header {
     align-items: center;
     height: 70vh;
     color: #fff;
+    background-image: radial-gradient(circle 248px at center, #16d9e3 0%, #30c7ec 47%, #46aef7 100%);
 }
 
 .hero-heading h1 {
