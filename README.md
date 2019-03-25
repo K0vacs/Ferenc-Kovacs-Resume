@@ -55,26 +55,18 @@ The fonts used are Hind Vadodara and Mitr using [Google Fonts](https://fonts.goo
     > Displays a contact form with 5 input fileds for users to contact me.
 
 ### Mockups
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+The project mockups are available in the mockups directory in both mobile and desktop views.
 
 ## Features
-
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
  
 ### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
-
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-
-### Features Left to Implement
-- Another feature idea
+- Responsiveness - allows the website to render in a user friendly display on any device
+- Tooltips - on the skills page each course pill will display a tooltip when clicked
+- Timeline - displays the natural progression over time in a more user friendly display
+- Resume download - allows the user to download my resume which is available in all navigation elements
+- Contact form - allows the user to contact the author through the web form
 
 ## Technologies Used
-
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
 ### Languages
 >	HTML / HTML5
@@ -100,44 +92,45 @@ In this section, you should mention all of the languages, frameworks, libraries,
 
 ## Testing
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+This project was tested using the Google Chrome Inspect tool. Using the afore mentioned tool the website was tested using multiple screen sizes. These screen sizes include various mobile, tablet, and desktop sizes using both portrait and landscape views.
 
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
-
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
-
-1. Contact form:
-    1. Go to the "Contact Us" page
-    2. Try to submit the empty form and verify that an error message about the required fields appears
-    3. Try to submit the form with an invalid email address and verify that a relevant error message appears
-    4. Try to submit the form with all inputs valid and verify that a success message appears.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+The following checks were done to ensure the website is working as attended:
+- All links working and directed correctly
+- All styles applied and display correctly
+- All icons displayed with the intended styling
+- All navigation elements are working as intended
+- All tooltips are operating as intended
+- Resume download links operate as intended
+- Timelines stack on mobile devices
+- Contact form fields are all required with a submit button
 
 ## Deployment
 
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-- Different values for environment variables (Heroku Config Vars)?
-- Different configuration files?
-- Separate git branch?
+This porject has been deployed on GitHub Pages using the following method:
+- When in the overview page select the repository you would like to publish
+- When in the appropriate repository, using the repository navigation bar select the settings option
+- When in the settings screen scroll down to GitHub Pages heading and below the source sub-heading select the branch you would like to deploy (in this case the master branch was used)
+- Enter the name for your project and publish it (Ferenc Kovacs Resume was used)
+- Wait for the website deployment to be finalised by GitHub
 
-In addition, if it is not obvious, you should also describe how to run your code locally.
+> The deployed version is the latest version of the website
 
+In addition, to run this code locally you need to open the html files in your browser. To display the local css and js files you willl need to update the html file links to local paths on your computer.
 
 ## Credits
 
 ### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
-
-### Media
-- The photos used in this site were obtained from ...
+- The icons used in this project are from [FontAwesome](https://fontawesome.com/)
+- The timeline used is from [W3Schools](https://www.w3schools.com/howto/howto_css_timeline.asp)
+- Most elements of this website use [Bootstrap](https://getbootstrap.com/) elements
+- The gradient backgrounds are from [WebGradients](https://webgradients.com/)
+- The colour palette was chosen using [ColorSpace](https://mycolor.space/)
+- The fonts were selected from [Google Fonts](https://fonts.google.com/)
 
 ### Acknowledgements
-
-- I received inspiration for this project from X
+- I received inspiration for this project from [Pinterest](https://za.pinterest.com/)
+- [Rock Band](https://karolsliwka.github.io/Rock-Band/)
+- [Rosie Odenkirk](https://traveltimn.github.io/ucd-resume/)
+- And [Haley Schafer](https://code-institute-solutions.github.io/StudentExampleProjectGradeFive/)
