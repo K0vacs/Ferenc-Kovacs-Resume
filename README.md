@@ -3,16 +3,21 @@
 This project is to showcase my skills and expertise as a full stack web developer for prospective employers. This project was built using only three major elements HTML5, CSS3 and Bootstrap.
 
 There are various pages that allows a prospective employer to better understand my background
->	About Me 
-- Provides a brief page of information about me and my highlights from each for the below pages
->	Portfolio 
-- Showcases my work as a developer (all visible in GitHub)
->	Skills 
-- Provides information on my coding language skills including courses that have helped me achieve these skills
->	Experience 
-- Provides information on my workplace experience throughout my career
->	Contact 
-- Provides the ability for the visitor to contact me through a web form
+
+##### About Me 
+> Provides a brief page of information about me and my highlights from each for the below pages
+
+##### Portfolio 
+> Showcases my work as a developer (all visible in GitHub)
+
+##### Skills 
+> Provides information on my coding language skills including courses that have helped me achieve these skills
+
+##### Experience 
+> Provides information on my workplace experience throughout my career
+
+##### Contact 
+> Provides the ability for the visitor to contact me through a web form
 
 ## UX
 
@@ -31,17 +36,23 @@ The fonts used are Hind Vadodara and Mitr using [Google Fonts](https://fonts.goo
 - As a client, I want to determine a prospective suppliers capabilities,  so that I can utilise a valuable supplier.
 - As a Code Institute marker, I want to determine the student has achieved the learning outcomes, so that I can score the level of achievement (out of 5).
 
-### Pages
+### Page Sections
 
-> About Me
-
-> Experience
-
-> Skills
-
-> Portfolio
-
-> Contact
+##### Header
+> This section consists of 2 header elements centered and 2 navigation options. A standard burger menu and a drop down menu.
+##### Footer
+> The footer has 3 elements, a left aligned text, center aligned drop down navigation menu and right aligned social media buttons.
+##### Main
+- About Me
+    > Has 2 major sections, one showing the highlights of the resume and the other with a short blurb.
+- Experience
+    > Is a vertical timeline displaying work experience from earliest to latest which is left and right aligned consecutively.
+- Skills
+    > Is a vertical timeline displaying development language skills from earliest learnt to latest which is left and right aligned consecutively.
+- Portfolio
+    > Displays in a grid, rows of 3 cards with each displaying the title, languages used, blurb and clicks to the project.
+- Contact
+    > Displays a contact form with 5 input fileds for users to contact me.
 
 ### Mockups
 This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
