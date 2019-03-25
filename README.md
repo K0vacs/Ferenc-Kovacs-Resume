@@ -1,30 +1,47 @@
 # Ferenc Kovacs Resume
 
-This project is to showcase a basic profile website of me as a developer by displaying information on my work history, skills, experience, about me section and contact page.
+This project is to showcase my skills and expertise as a full stack web developer for prospective employers. This project was built using only three major elements HTML5, CSS3 and Bootstrap.
 
-As I continue to develop professionally my profile will be updated occasionally.
+There are various pages that allows a prospective employer to better understand my background
+>	About Me 
+- Provides a brief page of information about me and my highlights from each for the below pages
+>	Portfolio 
+- Showcases my work as a developer (all visible in GitHub)
+>	Skills 
+- Provides information on my coding language skills including courses that have helped me achieve these skills
+>	Experience 
+- Provides information on my workplace experience throughout my career
+>	Contact 
+- Provides the ability for the visitor to contact me through a web form
 
 ## UX
 
 ### Function
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+This project is for prospective employers, recruiters, clients and Code Institute markers. These 4 user types will want to achieve 2 major goals. Firstly, the prospective employers, recruiters and clients will want to identify if I have the capabilities required for their needs. Code Institute markers will want to identify if I have the build the website according to their project specifications. This project will satisfy both as the content and pages of the project clearly showcase my capabilities as a developer and the way the project was built will show Code Institute markers the project was built according to specification.
 
 ### Styling
 
-This website was built with speed and simplicity in mind. Hence background radial gradients where selected for the header and footer for a clean an cool colouring using the colour blue (rather than background-images). The background gradient was generated using WebGradients and the colour palette was generated using ColorSpace to find complimentary colours for the website.
+This website was built with speed and simplicity in mind. Hence background radial gradients where selected for the header and footer for a clean an cool colouring using the colour blue (rather than background-images). The background gradient was generated using [WebGradients](https://webgradients.com/) and the colour palette was generated using [ColorSpace](https://mycolor.space/) to find complimentary colours for the website.
 
-The fonts used are Hind Vadodara and Mitr using Google Fonts and imported to the style.css file.
+The fonts used are Hind Vadodara and Mitr using [Google Fonts](https://fonts.google.com/) and imported to the style.css file.
+
+### User Stories
+- As a recruiter, I want to determine a prospects capabilities, so that I can place successful candidates.
+- As an employer, I want to determine a prospects capabilites, so that I can hire a valuable resource.
+- As a client, I want to determine a prospective suppliers capabilities,  so that I can utilise a valuable supplier.
+- As a Code Institute marker, I want to determine the student has achieved the learning outcomes, so that I can score the level of achievement (out of 5).
 
 ### Pages
 
-#### About Me
-#### Experience
-#### Skills
-#### Portfolio
-#### Contact
+> About Me
 
-### User Stories
-- As a user type, I want to perform an action, so that I can achieve a goal.
+> Experience
+
+> Skills
+
+> Portfolio
+
+> Contact
 
 ### Mockups
 This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
