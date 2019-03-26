@@ -71,24 +71,24 @@ The project mockups are available in the mockups directory in both mobile and de
 ## Technologies Used
 
 ### Languages
->	HTML / HTML5
--	To display content on each HTML page and enable the use of more semantic elements used in HTML5
->	CSS / CSS3
--	To style content in each HTML page and enable additional styling features by using CSS3
->	JavaScript
--	To make HTML content more dynamic and to enable features that are supported by Bootstrap
+-	HTML / HTML5
+>	To display content on each HTML page and enable the use of more semantic elements used in HTML5
+-	CSS / CSS3
+>	To style content in each HTML page and enable additional styling features by using CSS3
+-	JavaScript
+>	To make HTML content more dynamic and to enable features that are supported by Bootstrap
 
 ### Libraries
->	Bootstrap
--	To speed up the building of the project using font end framework that has been tied and tested
->	Font Awesome
--   To make the project more visually appealing to users through the use of icons
->	W3Schools
--	The timeline used in the skills and experience pages are based on a timeline obtained from W3Schools
->	Google Fonts
--	To make enable custom fonts to be used in the project. Hind Vadodara and Mitr were selected
->	jQuery
--	To simplify Dom manipulation and to enable Bootstrap features
+-	Bootstrap
+>	To speed up the building of the project using font end framework that has been tied and tested
+-	Font Awesome
+>   To make the project more visually appealing to users through the use of icons
+-	W3Schools
+>	The timeline used in the skills and experience pages are based on a timeline obtained from W3Schools
+-	Google Fonts
+>	To make enable custom fonts to be used in the project. Hind Vadodara and Mitr were selected
+-	jQuery
+>	To simplify Dom manipulation and to enable Bootstrap features
 
 
 
