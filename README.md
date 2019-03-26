@@ -1,5 +1,7 @@
 # Ferenc Kovacs Resume
 
+![Hero Image](images/hero.png)
+
 This project is to showcase my skills and expertise as a full stack web developer for prospective employers. This project was built using only three major elements HTML5, CSS3 and Bootstrap.
 
 There are various pages that allows a prospective employer to better understand my background
