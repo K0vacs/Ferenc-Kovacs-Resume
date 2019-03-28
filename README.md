@@ -57,7 +57,9 @@ The fonts used are Hind Vadodara and Mitr using [Google Fonts](https://fonts.goo
     > Displays a contact form with 5 input fields for users to contact me.
 
 ### Mockups
-The project mockups are available in the mockups directory in both mobile and desktop views.
+The project mockups are available below and in the mockups directory in both mobile and desktop views:
+
+![Mockup Image](mockups/Mockups.pdf)
 
 ## Features
  
