@@ -109,6 +109,10 @@ The following checks were done to ensure the website is working as intended:
 - Resume download links operate as intended
 - Timelines stack on mobile devices
 - Contact form fields are all required with a submit button
+- W3C validator HTML errors fixed
+    - Gotcha; When adding multiple Google Fonts, the url includes a "|" which is not best practice according to W3C. To fix this error the following was used instead "%7C"
+- W3C calidator CSS errors fixed
+- Google Dev Tools Audit run and fixed issues on each page
 
 ## Deployment
 
